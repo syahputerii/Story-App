@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Story Dicoding App</string>
+
+    <!-- Welcome Page -->
+    <string name="welcome">Bagikan Cerita Seru Kamu</string>
+    <string name="message_welcome_page">Temukan tempat terbaik untuk berbagi cerita, ide, dan informasi seru yang nggak boleh kamu lewatkan!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp, tempatnya seru-seruan dan berbagi cerita!</string>
+    <string name="welcome_image_desc">Selamat datang di Kumpulan Cerita Hidup yang Menyenangkan!</string>
+
+    <!-- Login & Sign up Page -->
+    <string name="image_desc">Login Image</string>
+    <string name="sign_up_image_desc">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Isi data dengan benar, ya!</string>
+    <string name="title_login_page">Sudah punya akun? Yuk, login dulu!</string>
+    <string name="link_register">Belum memiliki akun? Daftar</string>
+    <string name="title_signup_page">Belum punya akun? Ayo, daftar sekarang!</string>
+    <string name="name_dummy">Nama</string>
+    <string name="password_hint">********</string>
+    <string name="email_hint">contoh@domain.com</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="success_dialog_title">Berhasil!</string>
+    <string name="success_dialog_content">Selamat datang di aplikasi, %1$s!</string>
+    <string name="error_dialog_title">Gagal!</string>
+    <string name="error_dialog_content">%1$s</string>
+    <string name="error_dialog_confirm">OK</string>
+    <string name="error_user_session">Sesi pengguna tidak tersedia</string>
+    <string name="error_token_not_available">Token tidak tersedia</string>
+    <string name="error_complete_fields">Harap lengkapi semua kolom</string>
+    <string name="dialog_success_title">Berhasil!</string>
+    <string name="dialog_success_content">Akun dengan %1$s telah berhasil dibuat</string>
+    <string name="dialog_error_title">Gagal!</string>
+    <string name="dialog_error_content">Pendaftaran Gagal: %1$s</string>
+    <string name="dialog_confirm_ok">OK</string>
+    <string name="error_email_empty">Email tidak boleh kosong</string>
+    <string name="error_name_empty">Nama tidak boleh kosong</string>
+    <string name="error_password_empty">Kata sandi tidak boleh kosong</string>
+    <string name="error_password_length">Kata sandi minimal harus terdiri dari 8 karakter</string>
+    <string name="invalid_email_format">Format email tidak valid</string>
+    <string name="password_error">Kata sandi minimal harus terdiri dari %1$d karakter</string>
+
+    <!-- widget -->
+    <string name="more_item">Selanjutnya</string>
+    <string name="logout">Keluar</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+
+    <!-- add story -->
+    <string name="description_dummy">Deskripsi</string>
+    <string name="desc">Tuliskan cerita seru kamu disini!</string>
+    <string name="choose_image">Pilih Gambar dari Galeri atau Ambil Foto Baru</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload_story">Unggah</string>
+    <string name="preview_image">Pratinjau Gambar</string>
+    <string name="add_item">Tambah</string>
+    <string name="error_choose_image_first">Silakan pilih gambar terlebih dahulu.</string>
+    <string name="no_media_selected">Tidak ada media yang dipilihd</string>
+    <string name="success_add_story">Berhasil menambahkan cerita baru.</string>
+    <string name="failed_title">Gagal!</string>
+    <string name="failed_content">Gagal menambahkan cerita. Silakan coba lagi.</string>
+    <string name="success_title">Berhasil!</string>
+    <string name="success_content">Cerita berhasil ditambahkan.</string>
+    <string name="ok_button">OK</string>
+    <string name="image_uri_log">Tampilkan Gambar: %1$s</string>
+
+    <!-- detail story -->
+    <string name="tgl_dummy">00 Januari 0000</string>
+    <string name="teks_dummy">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+
+    <!-- keluar -->
+    <string name="logout_dialog_title">Yakin mau keluar?</string>
+    <string name="logout_dialog_content">Kamu bakal ketinggalan banyak hal!</string>
+    <string name="logout_dialog_confirm">Iya</string>
+    <string name="logout_dialog_cancel">Tidak</string>
+
+    <!-- Maps -->
+    <string name="show_map">Maps</string>
+    <string name="story_location">Lokasi</string>
+    <string name="title_activity_maps">lokasi</string>
+    <string name="enable_location">Lokasi</string>
+    <string name="error_process_image">Error proses image</string>
+    <string name="error_display_image">Error tampilan image</string>
+
+    <!-- Paging -->
+    <string name="retry">Coba Lagi</string>
+</resources>
